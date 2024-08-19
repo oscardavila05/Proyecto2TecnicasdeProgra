@@ -1,0 +1,29 @@
+@model IEnumerable<MiProyectoMVC.Models.Cliente>
+
+@{
+    ViewData["Title"] = "Clientes";
+}
+
+<h1>Clientes</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Email</th>
+            <th>Teléfono</th>
+            <th>Fecha de Alta</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Nombre</td>
+                <td>@item.Email</td>
+                <td>@item.Telefono</td>
+                <td>@item.FechaAlta.ToShortDateString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
