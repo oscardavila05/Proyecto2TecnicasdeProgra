@@ -4,19 +4,18 @@ using MiProyectoMVC.Models;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
 
-
 namespace MiProyectoMVC.Controllers
 {
-    public class ClientesController : Controller
+    public class CajerosController : Controller
     {
         private readonly ApplicationDbContext _context;
 
-        public ClientesController(ApplicationDbContext context)
+        public CajerosController(ApplicationDbContext context)
         {
             _context = context;
         }
 
-        // GET: Clientes/Create
+        // GET: Cajeros/Create
         public IActionResult Create()
         {
             return View();
@@ -24,22 +23,21 @@ namespace MiProyectoMVC.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Nombre,Email,Telefono,FechaAlta")] Cliente cliente)
+        public async Task<IActionResult> Create([Bind("Nombre,Turno,FechaIngreso,Salario")] Cajero cajero)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(cliente); // El valor de 'Id' se gestionará automáticamente
+                _context.Add(cajero); // El valor de 'Id' se gestiona automáticamente
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(cliente);
+            return View(cajero);
         }
 
-
-        // GET: Clientes
+        // GET: Cajeros
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Clientes.ToListAsync());
+            return View(await _context.Cajeros.ToListAsync());
         }
     }
 }

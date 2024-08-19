@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\jhoel\source\repos\MiProyectoMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/jhoel/source/repos/MiProyectoMVC/Views/Cajeros/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FqZXJvc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/jhoel/source/repos/MiProyectoMVC/Views/Cajeros/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FqZXJvc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/jhoel/source/repos/MiProyectoMVC/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
