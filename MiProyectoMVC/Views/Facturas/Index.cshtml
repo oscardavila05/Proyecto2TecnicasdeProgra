@@ -1,0 +1,32 @@
+﻿@model IEnumerable<MiProyectoMVC.Models.Factura>
+
+@{
+    ViewData["Title"] = "Facturas";
+}
+
+<h1>Facturas</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Cliente</th>
+            <th>Producto</th>
+            <th>Precio del Producto</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Cliente</td>
+                <td>@item.Producto</td>
+                <td>@item.PrecioProducto.ToString("C")</td>
+                <td>@item.Total.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<!-- Botón para Volver al Home -->
+<a href="@Url.Action("Index", "Home")" class="btn btn-info">Volver al Inicio</a>

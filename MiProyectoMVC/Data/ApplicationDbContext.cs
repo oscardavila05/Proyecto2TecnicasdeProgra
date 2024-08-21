@@ -16,5 +16,7 @@ namespace MiProyectoMVC.Data
         public DbSet<Cajero> Cajeros { get; set; }
 
         public DbSet<Producto> Productos { get; set; }
+
+        public DbSet<Factura> Facturas { get; set; }
     }
 }

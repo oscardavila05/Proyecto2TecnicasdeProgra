@@ -3,60 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:views\\productos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\models\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:models\\cajero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\views\\cajeros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:views\\cajeros\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\views\\cajeros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:views\\cajeros\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\controllers\\cajeroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:controllers\\cajeroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:views\\facturas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\views\\facturas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:views\\facturas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:controllers\\facturascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -67,8 +27,20 @@
       "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:models\\factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -77,14 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|c:\\users\\jhoel\\source\\repos\\miproyectomvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6A348A6B-F2CE-43FC-B86B-1A749B0CEB02}|MiProyectoMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,267 +70,159 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Productos\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Productos\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Productos\\Index.cshtml",
-              "RelativeToolTip": "Views\\Productos\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T21:30:49.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Productos\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Productos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Productos\\Create.cshtml",
-              "RelativeToolTip": "Views\\Productos\\Create.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T21:30:28.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Controllers\\ProductosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Controllers\\ProductosController.cs",
-              "RelativeToolTip": "Controllers\\ProductosController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T21:29:44.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Models\\Producto.cs",
-              "RelativeDocumentMoniker": "Models\\Producto.cs",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Models\\Producto.cs",
-              "RelativeToolTip": "Models\\Producto.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T21:29:09.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T21:04:28.977Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-08-19T21:07:24.164Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T21:07:14.937Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T21:05:32.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T21:04:34.915Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T21:04:19.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Cajeros\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cajeros\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Cajeros\\Index.cshtml",
-              "RelativeToolTip": "Views\\Cajeros\\Index.cshtml",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T20:50:27.378Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Cajeros\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Cajeros\\Create.cshtml",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Cajeros\\Create.cshtml",
-              "RelativeToolTip": "Views\\Cajeros\\Create.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T20:50:03.875Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "CajerosController.cs",
               "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Controllers\\CajerosController.cs",
               "RelativeDocumentMoniker": "Controllers\\CajerosController.cs",
               "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Controllers\\CajerosController.cs",
               "RelativeToolTip": "Controllers\\CajerosController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAuwCsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T20:49:28.003Z",
+              "WhenOpened": "2024-08-21T04:48:58.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cajero.cs",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Models\\Cajero.cs",
-              "RelativeDocumentMoniker": "Models\\Cajero.cs",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Models\\Cajero.cs",
-              "RelativeToolTip": "Models\\Cajero.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T20:46:40.966Z",
+              "WhenOpened": "2024-08-21T04:43:11.962Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T03:25:42.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Clientes\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
               "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Clientes\\Index.cshtml",
               "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T19:55:34.582Z"
+              "WhenOpened": "2024-08-21T04:31:10.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Clientes\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
               "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Clientes\\Create.cshtml",
               "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-19T19:54:56.489Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T19:50:59.855Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T19:50:52.332Z",
+              "WhenOpened": "2024-08-21T04:26:02.456Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 11,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
               "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Controllers\\ClientesController.cs",
               "RelativeToolTip": "Controllers\\ClientesController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwCwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T19:46:48.612Z"
+              "WhenOpened": "2024-08-21T03:40:33.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Facturas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Facturas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Facturas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Facturas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T02:57:22.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "Models\\Cliente.cs",
               "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Models\\Cliente.cs",
               "RelativeToolTip": "Models\\Cliente.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA4wBUAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-19T19:45:49.243Z",
+              "WhenOpened": "2024-08-21T02:56:10.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-19T19:45:22.25Z"
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:54:01.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Factura.cs",
+              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Models\\Factura.cs",
+              "RelativeDocumentMoniker": "Models\\Factura.cs",
+              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Models\\Factura.cs",
+              "RelativeToolTip": "Models\\Factura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:53:12.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FacturasController.cs",
+              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Controllers\\FacturasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FacturasController.cs",
+              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Controllers\\FacturasController.cs",
+              "RelativeToolTip": "Controllers\\FacturasController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T02:51:56.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Facturas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Facturas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\Views\\Facturas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Facturas\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T02:51:49.509Z",
+              "EditorCaption": ""
             }
           ]
         },
