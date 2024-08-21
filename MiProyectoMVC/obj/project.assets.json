@@ -2754,11 +2754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhoel\\OneDrive\\Documentos\\Proyecto2TecnicasdeProgra\\MiProyectoMVC\\MiProyectoMVC.csproj",
+      "projectUniqueName": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\MiProyectoMVC.csproj",
       "projectName": "MiProyectoMVC",
-      "projectPath": "C:\\Users\\jhoel\\OneDrive\\Documentos\\Proyecto2TecnicasdeProgra\\MiProyectoMVC\\MiProyectoMVC.csproj",
+      "projectPath": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\MiProyectoMVC.csproj",
       "packagesPath": "C:\\Users\\jhoel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhoel\\OneDrive\\Documentos\\Proyecto2TecnicasdeProgra\\MiProyectoMVC\\obj\\",
+      "outputPath": "C:\\Users\\jhoel\\source\\repos\\MiProyectoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jhoel\\AppData\\Roaming\\NuGet\\NuGet.Config",
