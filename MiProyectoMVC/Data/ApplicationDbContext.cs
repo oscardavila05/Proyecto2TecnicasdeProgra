@@ -4,6 +4,10 @@ using System.Collections.Generic;
 
 namespace MiProyectoMVC.Data
 {
+
+    /// <summary>
+    /// constructor del controlador para realizar operaciones sobre la base de datos
+    /// </summary>
     public class ApplicationDbContext : DbContext
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)

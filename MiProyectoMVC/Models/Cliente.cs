@@ -5,7 +5,7 @@ namespace MiProyectoMVC.Models
 {
     public class Cliente
     {
-        public int Id { get; set; } // La propiedad 'Id' se manejará automáticamente por la base de datos
+        public int Id { get; set; } 
 
         [Required]
         [StringLength(500)]

@@ -13,6 +13,7 @@
             <th>Marca</th>
             <th>Precio de Compra</th>
             <th>Precio de Venta</th>
+            <th>Acciones</th>
         </tr>
     </thead>
     <tbody>
@@ -23,10 +24,16 @@
                 <td>@item.Marca</td>
                 <td>@item.PrecioCompra.ToString("C")</td>
                 <td>@item.PrecioVenta.ToString("C")</td>
+                <td>
+                  
+                    <form asp-action="Delete" asp-route-id="@item.Id" method="post" style="display:inline;">
+                        <button type="submit" class="btn btn-danger">Eliminar</button>
+                    </form>
+                </td>
             </tr>
         }
     </tbody>
 </table>
 
-<!-- Botón para Volver al Home -->
+
 <a href="@Url.Action("Index", "Home")" class="btn btn-info">Volver al Inicio</a>

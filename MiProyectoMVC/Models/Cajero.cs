@@ -5,7 +5,7 @@ namespace MiProyectoMVC.Models
 {
     public class Cajero
     {
-        public int Id { get; set; } // Se gestiona automáticamente
+        public int Id { get; set; } 
 
         [Required]
         [StringLength(100)]
